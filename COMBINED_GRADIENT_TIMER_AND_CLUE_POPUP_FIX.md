@@ -1,0 +1,1 @@
+Combined update: added the orange-to-pink gradient 5-minute backstory timer bar and fixed clue notification popups so timed clue unlocks detected during polling still show notification-only popups. Popups do not reveal clue text or clue titles; players must open the correct investigation app/icon to read evidence.

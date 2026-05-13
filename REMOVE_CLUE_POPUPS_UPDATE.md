@@ -1,1 +1,0 @@
-Removed clue content from modal popups. New evidence still unlocks inside the investigation apps and can update the browser title/notification, but the app no longer displays clue title/text in a popup dialog.

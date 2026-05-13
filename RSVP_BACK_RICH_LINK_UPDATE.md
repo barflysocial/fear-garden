@@ -1,1 +1,0 @@
-Added a Back button to the Choose Date section of the RSVP reservation flow. The Back button returns to the title screen. Also added rich share preview/Open Graph support for the player page so shared links can show a Fear Garden preview card when supported by the receiving app.

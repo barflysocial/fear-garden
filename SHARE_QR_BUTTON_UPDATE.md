@@ -1,1 +1,0 @@
-Added a Share button under Have Access Code on the title screen. It opens a QR-code/share modal for the current game link, with Share Link and Copy Link actions. The access-code/join screen is unchanged.

@@ -1,0 +1,534 @@
+{
+  "id": "fear-garden-rookie",
+  "title": "Fear Garden — Level 2 Rookie Detective",
+  "venue": "Beer Garden, Baton Rouge, Louisiana",
+  "description": "LEVEL 2 ROOKIE DETECTIVE CASE version of Fear Garden with unique suspect, method, motive, evidence, and answers.",
+  "answerKey": {
+    "culprit": "Trevor Knox",
+    "method": "Swapped Nolan’s marked beer flight with a tainted sample during the garden toast",
+    "motive": "To hide that Trevor had been watering down premium kegs and pocketing the difference",
+    "keyEvidence": "Tap-room pour log, flight marker photo, and deleted keg inventory note",
+    "explanation": "Trevor Knox had the access, timing, and motive. The proof path combines tap-room pour log, flight marker photo, and deleted keg inventory note with the failed statement: Trevor claimed he stayed at the patio gate."
+  },
+  "publicClues": [
+    {
+      "id": "rookie-pub-000",
+      "unlockSec": 45,
+      "title": "Case Opened",
+      "text": "Fear Garden begins at Beer Garden in Baton Rouge, Louisiana. This session is Level 2: Rookie Detective Case."
+    },
+    {
+      "id": "rookie-pub-001",
+      "unlockSec": 105,
+      "title": "Difficulty Loaded",
+      "text": "This is Level 2: Rookie Detective Case. Evidence and answers are unique to this level."
+    },
+    {
+      "id": "rookie-pub-002",
+      "unlockSec": 525,
+      "title": "Checkpoint 1 Available",
+      "text": "Round 1 is ready. Answer the checkpoint after reviewing the body scene."
+    },
+    {
+      "id": "rookie-pub-003",
+      "unlockSec": 825,
+      "title": "Checkpoint 2 Available",
+      "text": "Round 2 is ready. Compare the timeline before answering."
+    },
+    {
+      "id": "rookie-pub-004",
+      "unlockSec": 1245,
+      "title": "Checkpoint 3 Available",
+      "text": "Round 3 is ready. Digital and venue systems now matter."
+    },
+    {
+      "id": "rookie-pub-005",
+      "unlockSec": 1425,
+      "title": "Checkpoint 4 Available",
+      "text": "Round 4 is ready. Find the motive evidence."
+    },
+    {
+      "id": "rookie-pub-006",
+      "unlockSec": 1605,
+      "title": "Final Accusation Open",
+      "text": "Final questions are open. Complete all 10 total questions before the lock."
+    }
+  ],
+  "apps": {
+    "phone": [
+      {
+        "id": "rookie-phone-1",
+        "unlockSec": 225,
+        "title": "Phone Evidence 1",
+        "text": "Nolan Graves missed two calls from Trevor Knox before the garden music cut out."
+      },
+      {
+        "id": "rookie-phone-2",
+        "unlockSec": 345,
+        "title": "Phone Evidence 2",
+        "text": "A final call lasted eleven seconds as Nolan moved toward the side corridor."
+      }
+    ],
+    "messages": [
+      {
+        "id": "rookie-messages-1",
+        "unlockSec": 405,
+        "title": "Messages Evidence 1",
+        "text": "Nolan texted Trevor: “We talk tonight. I saw the numbers.”"
+      },
+      {
+        "id": "rookie-messages-2",
+        "unlockSec": 585,
+        "title": "Messages Evidence 2",
+        "text": "Trevor replied: “Not at the bar. Meet by the garden gate.”"
+      }
+    ],
+    "maps": [
+      {
+        "id": "rookie-maps-1",
+        "unlockSec": 765,
+        "title": "Maps Evidence 1",
+        "text": "Nolan’s phone pinged near the patio garden path at 8:07 PM."
+      },
+      {
+        "id": "rookie-maps-2",
+        "unlockSec": 945,
+        "title": "Maps Evidence 2",
+        "text": "Trevor’s device appears nearby during the same short window."
+      }
+    ],
+    "bank": [
+      {
+        "id": "rookie-bank-1",
+        "unlockSec": 1005,
+        "title": "Bank Evidence 1",
+        "text": "A Beer Garden event ledger shows a suspicious private payout connected to hide that trevor had been watering down premium kegs and pocketing the difference."
+      },
+      {
+        "id": "rookie-bank-2",
+        "unlockSec": 1125,
+        "title": "Bank Evidence 2",
+        "text": "The payout trail links to a device or account controlled by Trevor."
+      }
+    ],
+    "photos": [
+      {
+        "id": "rookie-photos-1",
+        "unlockSec": 1305,
+        "title": "Photos Evidence 1",
+        "text": "A guest photo shows Trevor near the restricted service path before the incident."
+      },
+      {
+        "id": "rookie-photos-2",
+        "unlockSec": 1365,
+        "title": "Photos Evidence 2",
+        "text": "Another photo captures the scene detail: Nolan’s marked flight glass changes trays."
+      }
+    ],
+    "social": [
+      {
+        "id": "rookie-social-1",
+        "unlockSec": 1485,
+        "title": "Social Evidence 1",
+        "text": "A patio livestream catches a missing gap just before Nolan disappears from frame."
+      },
+      {
+        "id": "rookie-social-2",
+        "unlockSec": 1545,
+        "title": "Social Evidence 2",
+        "text": "The posted version removes the seconds that would show who crossed behind the garden wall."
+      }
+    ],
+    "contacts": [
+      {
+        "id": "rookie-contacts-1",
+        "unlockSec": 165,
+        "title": "Contacts Evidence 1",
+        "text": "Trevor saved a contact under “Garden Services,” matching a suspicious payment line."
+      },
+      {
+        "id": "rookie-contacts-2",
+        "unlockSec": 285,
+        "title": "Contacts Evidence 2",
+        "text": "Nolan saved the same number with the note “ask about fake paperwork.”"
+      }
+    ],
+    "notes": [
+      {
+        "id": "rookie-notes-1",
+        "unlockSec": 465,
+        "title": "Notes Evidence 1",
+        "text": "Detective note: the killer needed venue access, timing, and a reason to silence Nolan."
+      },
+      {
+        "id": "rookie-notes-2",
+        "unlockSec": 645,
+        "title": "Notes Evidence 2",
+        "text": "Detective note: the scene points to planning, not a random Beer Garden accident."
+      }
+    ],
+    "files": [
+      {
+        "id": "rookie-files-1",
+        "unlockSec": 705,
+        "title": "Files Evidence 1",
+        "text": "A security export skips the exact Beer Garden patio window."
+      },
+      {
+        "id": "rookie-files-2",
+        "unlockSec": 885,
+        "title": "Files Evidence 2",
+        "text": "File metadata connects the edit to the suspect’s access trail: Trevor Knox."
+      }
+    ],
+    "browser": [
+      {
+        "id": "rookie-browser-1",
+        "unlockSec": 1065,
+        "title": "Browser Evidence 1",
+        "text": "A browser search asks how to remove timestamp metadata from venue clips."
+      },
+      {
+        "id": "rookie-browser-2",
+        "unlockSec": 1185,
+        "title": "Browser Evidence 2",
+        "text": "Another search matches the method: swapped nolan’s marked beer flight with a tainted sample during the garden toast."
+      }
+    ]
+  },
+  "rounds": [
+    {
+      "id": "fg-round-1",
+      "title": "Round 1: The Body in the Garden",
+      "shortTitle": "Body",
+      "startSec": 0,
+      "endSec": 300,
+      "objective": "Review evidence connected to the body in the garden and answer the checkpoint question.",
+      "dialogue": "Round 1 is open. Focus on the body in the garden. The clues in this round test one part of the Fear Garden case logic.",
+      "countdownReview": "Checkpoint 1 is nearly complete. Lock in what the body in the garden proves before the next round opens."
+    },
+    {
+      "id": "fg-round-2",
+      "title": "Round 2: The Patio Timeline",
+      "shortTitle": "Timeline",
+      "startSec": 300,
+      "endSec": 600,
+      "objective": "Review evidence connected to the patio timeline and answer the checkpoint question.",
+      "dialogue": "Round 2 is open. Focus on the patio timeline. The clues in this round test one part of the Fear Garden case logic.",
+      "countdownReview": "Checkpoint 2 is nearly complete. Lock in what the patio timeline proves before the next round opens."
+    },
+    {
+      "id": "fg-round-3",
+      "title": "Round 3: The Digital Trail",
+      "shortTitle": "Digital",
+      "startSec": 600,
+      "endSec": 900,
+      "objective": "Review evidence connected to the digital trail and answer the checkpoint question.",
+      "dialogue": "Round 3 is open. Focus on the digital trail. The clues in this round test one part of the Fear Garden case logic.",
+      "countdownReview": "Checkpoint 3 is nearly complete. Lock in what the digital trail proves before the next round opens."
+    },
+    {
+      "id": "fg-round-4",
+      "title": "Round 4: The Money Root",
+      "shortTitle": "Money",
+      "startSec": 900,
+      "endSec": 1200,
+      "objective": "Review evidence connected to the money root and answer the checkpoint question.",
+      "dialogue": "Round 4 is open. Focus on the money root. The clues in this round test one part of the Fear Garden case logic.",
+      "countdownReview": "Checkpoint 4 is nearly complete. Lock in what the money root proves before the next round opens."
+    },
+    {
+      "id": "fg-round-5",
+      "title": "Round 5: The Cover-Up",
+      "shortTitle": "Cover-Up",
+      "startSec": 1200,
+      "endSec": 1440,
+      "objective": "Review evidence connected to the cover-up and answer the checkpoint question.",
+      "dialogue": "Round 5 is open. Focus on the cover-up. The clues in this round test one part of the Fear Garden case logic.",
+      "countdownReview": "Checkpoint 5 is nearly complete. Lock in what the cover-up proves before the next round opens."
+    },
+    {
+      "id": "fg-round-final",
+      "title": "Final Accusation",
+      "shortTitle": "Final",
+      "startSec": 1440,
+      "endSec": 1680,
+      "objective": "Answer the final five questions to close Fear Garden.",
+      "dialogue": "The final accusation window is open. Choose the culprit, method, motive, key evidence, and the statement that fails.",
+      "countdownReview": "The final window is closing. Submit all answers before Fear Garden locks."
+    }
+  ],
+  "openingNarration": "Detectives, welcome to Fear Garden at Beer Garden in Baton Rouge, Louisiana. You are playing Level 2: Rookie Detective Case. Study each app carefully. Every level has its own truth path, evidence trail, and final answer set.",
+  "revealScript": "Case closed. This was Level 2: Rookie Detective Case. The culprit was Trevor Knox. The method: Swapped Nolan’s marked beer flight with a tainted sample during the garden toast. The motive: To hide that Trevor had been watering down premium kegs and pocketing the difference. The proof: Tap-room pour log, flight marker photo, and deleted keg inventory note.",
+  "accusation": {
+    "questions": [
+      {
+        "id": "cp1",
+        "stage": "checkpoint",
+        "roundId": "fg-round-1",
+        "unlockSec": 300,
+        "prompt": "Checkpoint 1: What makes Nolan’s death suspicious?",
+        "correctOptionId": "cp1-correct",
+        "options": [
+          {
+            "id": "d1",
+            "label": "A normal spilled pint near the stage"
+          },
+          {
+            "id": "d2",
+            "label": "A table number written backward"
+          },
+          {
+            "id": "cp1-correct",
+            "label": "Nolan’s marked flight glass changes trays"
+          },
+          {
+            "id": "d3",
+            "label": "A guest closing a patio umbrella"
+          }
+        ]
+      },
+      {
+        "id": "cp2",
+        "stage": "checkpoint",
+        "roundId": "fg-round-2",
+        "unlockSec": 600,
+        "prompt": "Checkpoint 2: Which timeline clue matters most?",
+        "correctOptionId": "cp2-correct",
+        "options": [
+          {
+            "id": "d1",
+            "label": "The DJ restarted a playlist"
+          },
+          {
+            "id": "d2",
+            "label": "A guest paid with cash"
+          },
+          {
+            "id": "d3",
+            "label": "A server dropped a tray outside"
+          },
+          {
+            "id": "cp2-correct",
+            "label": "Trevor’s pour code appears during the toast window"
+          }
+        ]
+      },
+      {
+        "id": "cp3",
+        "stage": "checkpoint",
+        "roundId": "fg-round-3",
+        "unlockSec": 900,
+        "prompt": "Checkpoint 3: Which digital clue suggests planning?",
+        "correctOptionId": "cp3-correct",
+        "options": [
+          {
+            "id": "cp3-correct",
+            "label": "premium keg yield is impossibly high"
+          },
+          {
+            "id": "d1",
+            "label": "A low battery warning"
+          },
+          {
+            "id": "d2",
+            "label": "A misspelled hashtag"
+          },
+          {
+            "id": "d3",
+            "label": "A normal Wi-Fi reconnect"
+          }
+        ]
+      },
+      {
+        "id": "cp4",
+        "stage": "checkpoint",
+        "roundId": "fg-round-4",
+        "unlockSec": 1200,
+        "prompt": "Checkpoint 4: What clue points toward motive?",
+        "correctOptionId": "cp4-correct",
+        "options": [
+          {
+            "id": "d1",
+            "label": "A birthday receipt"
+          },
+          {
+            "id": "cp4-correct",
+            "label": "a deleted inventory note names Trevor’s side cash"
+          },
+          {
+            "id": "d2",
+            "label": "A lost wristband"
+          },
+          {
+            "id": "d3",
+            "label": "An ordinary tab transfer"
+          }
+        ]
+      },
+      {
+        "id": "cp5",
+        "stage": "checkpoint",
+        "roundId": "fg-round-5",
+        "unlockSec": 1440,
+        "prompt": "Checkpoint 5: Which statement begins to collapse?",
+        "correctOptionId": "cp5-correct",
+        "options": [
+          {
+            "id": "d1",
+            "label": "Maya said the plants were watered"
+          },
+          {
+            "id": "d2",
+            "label": "Janelle said the gate was busy"
+          },
+          {
+            "id": "cp5-correct",
+            "label": "Trevor claimed he stayed at the patio gate"
+          },
+          {
+            "id": "d3",
+            "label": "Darius said the speaker was loud"
+          }
+        ]
+      },
+      {
+        "id": "final_culprit",
+        "stage": "final",
+        "roundId": "final",
+        "unlockSec": 1440,
+        "prompt": "Final 1: Who killed Nolan Graves?",
+        "correctOptionId": "culprit",
+        "options": [
+          {
+            "id": "d1",
+            "label": "Maya Bell"
+          },
+          {
+            "id": "d2",
+            "label": "Janelle Price"
+          },
+          {
+            "id": "d3",
+            "label": "Darius Cole"
+          },
+          {
+            "id": "culprit",
+            "label": "Trevor Knox"
+          }
+        ]
+      },
+      {
+        "id": "final_method",
+        "stage": "final",
+        "roundId": "final",
+        "unlockSec": 1440,
+        "prompt": "Final 2: How was the murder carried out?",
+        "correctOptionId": "method",
+        "options": [
+          {
+            "id": "method",
+            "label": "Swapped Nolan’s marked beer flight with a tainted sample during the garden toast"
+          },
+          {
+            "id": "d1",
+            "label": "Poisoned a shared punch bowl"
+          },
+          {
+            "id": "d2",
+            "label": "Cut the stage lights only"
+          },
+          {
+            "id": "d3",
+            "label": "Staged a random parking-lot fall"
+          }
+        ]
+      },
+      {
+        "id": "final_motive",
+        "stage": "final",
+        "roundId": "final",
+        "unlockSec": 1440,
+        "prompt": "Final 3: Why was Nolan killed?",
+        "correctOptionId": "motive",
+        "options": [
+          {
+            "id": "d1",
+            "label": "To win a trivia prize"
+          },
+          {
+            "id": "motive",
+            "label": "To hide that Trevor had been watering down premium kegs and pocketing the difference"
+          },
+          {
+            "id": "d2",
+            "label": "To protect a karaoke score"
+          },
+          {
+            "id": "d3",
+            "label": "To hide a family recipe"
+          }
+        ]
+      },
+      {
+        "id": "final_evidence",
+        "stage": "final",
+        "roundId": "final",
+        "unlockSec": 1440,
+        "prompt": "Final 4: Which evidence best proves it?",
+        "correctOptionId": "evidence",
+        "options": [
+          {
+            "id": "d1",
+            "label": "A guest rumor and a napkin"
+          },
+          {
+            "id": "d2",
+            "label": "A broken patio chair only"
+          },
+          {
+            "id": "evidence",
+            "label": "Tap-room pour log, flight marker photo, and deleted keg inventory note"
+          },
+          {
+            "id": "d3",
+            "label": "A single missed call with no context"
+          }
+        ]
+      },
+      {
+        "id": "final_statement",
+        "stage": "final",
+        "roundId": "final",
+        "unlockSec": 1440,
+        "prompt": "Final 5: Which suspect statement falls apart?",
+        "correctOptionId": "statement",
+        "options": [
+          {
+            "id": "d1",
+            "label": "Maya said the music was loud"
+          },
+          {
+            "id": "d2",
+            "label": "Trevor said the patio was crowded"
+          },
+          {
+            "id": "d3",
+            "label": "Janelle said the menu was changed"
+          },
+          {
+            "id": "statement",
+            "label": "Trevor claimed he stayed at the patio gate"
+          }
+        ]
+      }
+    ]
+  },
+  "difficulty": "Rookie Detective",
+  "difficultyLabel": "LEVEL 2 ROOKIE DETECTIVE CASE",
+  "gameId": "fear-garden",
+  "gameTitle": "Fear Garden",
+  "levelId": "rookie",
+  "levelName": "Rookie Detective",
+  "levelLabel": "LEVEL 2 ROOKIE DETECTIVE CASE"
+}

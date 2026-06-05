@@ -1,9 +1,0 @@
-services:
-  - type: web
-    name: fear-garden
-    env: node
-    buildCommand: npm cache clean --force && npm install --no-audit --no-fund
-    startCommand: npm start
-    envVars:
-      - key: NODE_VERSION
-        value: 20.18.1

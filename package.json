@@ -1,0 +1,25 @@
+{
+  "name": "barfly-choice-engine",
+  "version": "1.2.0",
+  "description": "Barfly Choice Engine - selectable multiplayer story episodes with separated host/player screens, scheduling, QR join, and database persistence",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "game",
+    "multiplayer",
+    "choice-engine",
+    "survival",
+    "mystery",
+    "barfly-social"
+  ],
+  "author": "Barfly Social",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "pg": "^8.13.1"
+  }
+}
